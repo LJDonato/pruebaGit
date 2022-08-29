@@ -4,3 +4,6 @@ C- Lechuga
 D- Tomate
 E- Cebolla
 F- Queso Cremoso
+G- Queso Rallado
+H- 5 Manzanas
+I- 12 Naranjas
