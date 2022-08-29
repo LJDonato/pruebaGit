@@ -8,3 +8,7 @@ G- Huevos
 H- Harina
 I- Aceite 
 J- Vinagre 
+K- Queso Rallado
+L- 5 Manzanas
+M- 12 Naranjas
+
